@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(230, 230, 226);
+    background-attachment: fixed;
+    background-repeat: repeat-x;
+}
+h1{
+    text-align: center;
+    font-size:22px;
+}
+img{
+    width: 500px;
+    object-fit:cover;
+    display: block;
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+    border: 10px groove rgb(221, 193, 152);
+}
+.task2{
+    margin:20pt 20pt;
+    font-family: 'Centure Gothic';
+}
+.main_text p{
+    text-align:left;
+    font-size:15px;
+    text-indent:10pt;
+}
+.list ol{
+    text-align:left;
+    font-size:14px;
+
+}
+.list li{
+    margin-bottom: 5pt;
+}
+.recipe li{
+    text-align: left;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 5pt;
+}
